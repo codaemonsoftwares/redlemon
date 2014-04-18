@@ -3804,3 +3804,383 @@ DEBUG - 2014-04-18 14:31:49 --> File loaded: application/views/common/footer.php
 DEBUG - 2014-04-18 14:31:49 --> File loaded: application/views/layout/main_layout.php
 DEBUG - 2014-04-18 14:31:49 --> Final output sent to browser
 DEBUG - 2014-04-18 14:31:49 --> Total execution time: 3.5032
+DEBUG - 2014-04-18 15:57:24 --> Config Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Hooks Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 15:57:25 --> URI Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Router Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Output Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Security Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Input Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 15:57:25 --> Language Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Loader Class Initialized
+DEBUG - 2014-04-18 15:57:25 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 15:57:25 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 15:57:25 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 15:57:25 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 15:57:25 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 15:57:25 --> Database Driver Class Initialized
+ERROR - 2014-04-18 15:57:25 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 15:57:26 --> Pagination Class Initialized
+DEBUG - 2014-04-18 15:57:26 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 15:57:26 --> Email Class Initialized
+DEBUG - 2014-04-18 15:57:26 --> Session Class Initialized
+DEBUG - 2014-04-18 15:57:26 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 15:57:26 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 15:57:26 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 15:57:26 --> A session cookie was not found.
+DEBUG - 2014-04-18 15:57:27 --> Session routines successfully run
+DEBUG - 2014-04-18 15:57:27 --> Controller Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Config Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:07:12 --> URI Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Router Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Output Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Security Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Input Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 16:07:12 --> Language Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Loader Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 16:07:12 --> Database Driver Class Initialized
+ERROR - 2014-04-18 16:07:12 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 16:07:12 --> Pagination Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Email Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Session Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 16:07:12 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:07:12 --> A session cookie was not found.
+DEBUG - 2014-04-18 16:07:12 --> Session routines successfully run
+DEBUG - 2014-04-18 16:07:12 --> Controller Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2014-04-18 16:07:12 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:07:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:07:12 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: cookie_helper
+DEBUG - 2014-04-18 16:07:12 --> Model Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Model Class Initialized
+DEBUG - 2014-04-18 16:07:12 --> Helper loaded: date_helper
+DEBUG - 2014-04-18 16:07:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:07:12 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:07:12 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:07:12 --> File loaded: application/views/user/search_user.php
+DEBUG - 2014-04-18 16:07:12 --> File loaded: application/views/common/header.php
+DEBUG - 2014-04-18 16:07:12 --> File loaded: application/views/common/footer.php
+DEBUG - 2014-04-18 16:07:12 --> File loaded: application/views/layout/main_layout.php
+DEBUG - 2014-04-18 16:07:12 --> Final output sent to browser
+DEBUG - 2014-04-18 16:07:12 --> Total execution time: 0.4620
+DEBUG - 2014-04-18 16:34:00 --> Config Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:34:00 --> URI Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Router Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Output Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Security Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Input Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 16:34:00 --> Language Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Loader Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 16:34:00 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 16:34:00 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 16:34:00 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 16:34:00 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 16:34:00 --> Database Driver Class Initialized
+ERROR - 2014-04-18 16:34:00 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 16:34:00 --> Pagination Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Email Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Session Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 16:34:00 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 16:34:00 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:34:00 --> Session routines successfully run
+DEBUG - 2014-04-18 16:34:00 --> Controller Class Initialized
+DEBUG - 2014-04-18 16:34:00 --> File loaded: application/views/sweepstakes/rewe/index.php
+DEBUG - 2014-04-18 16:34:00 --> Final output sent to browser
+DEBUG - 2014-04-18 16:34:00 --> Total execution time: 0.4410
+DEBUG - 2014-04-18 16:34:01 --> Config Class Initialized
+DEBUG - 2014-04-18 16:34:01 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:34:01 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:34:01 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:34:01 --> URI Class Initialized
+DEBUG - 2014-04-18 16:34:01 --> Router Class Initialized
+ERROR - 2014-04-18 16:34:01 --> 404 Page Not Found --> public
+DEBUG - 2014-04-18 16:55:28 --> Config Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:55:28 --> URI Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Router Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Output Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Security Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Input Class Initialized
+DEBUG - 2014-04-18 16:55:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 16:55:28 --> Language Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Config Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:55:57 --> URI Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Router Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Output Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Security Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Input Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 16:55:57 --> Language Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Loader Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 16:55:57 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 16:55:57 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 16:55:57 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 16:55:57 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 16:55:57 --> Database Driver Class Initialized
+ERROR - 2014-04-18 16:55:57 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 16:55:57 --> Pagination Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Email Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Session Class Initialized
+DEBUG - 2014-04-18 16:55:57 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 16:55:57 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 16:55:57 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:55:57 --> Session routines successfully run
+DEBUG - 2014-04-18 16:55:57 --> Controller Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Config Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:56:31 --> URI Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Router Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Output Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Security Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Input Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 16:56:31 --> Language Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Loader Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 16:56:31 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 16:56:31 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 16:56:31 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 16:56:31 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 16:56:31 --> Database Driver Class Initialized
+ERROR - 2014-04-18 16:56:31 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 16:56:31 --> Pagination Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Email Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Session Class Initialized
+DEBUG - 2014-04-18 16:56:31 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 16:56:31 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 16:56:31 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:56:31 --> Session routines successfully run
+DEBUG - 2014-04-18 16:56:31 --> Controller Class Initialized
+ERROR - 2014-04-18 16:56:31 --> Severity: Notice  --> Undefined index: sweepstake_url D:\xampp\htdocs\redlemon\application\controllers\sweepstakes.php 33
+DEBUG - 2014-04-18 16:56:48 --> Config Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:56:48 --> URI Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Router Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Output Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Security Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Input Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 16:56:48 --> Language Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Loader Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 16:56:48 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 16:56:48 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 16:56:48 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 16:56:48 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 16:56:48 --> Database Driver Class Initialized
+ERROR - 2014-04-18 16:56:48 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 16:56:48 --> Pagination Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Email Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Session Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 16:56:48 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 16:56:48 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 16:56:48 --> Session routines successfully run
+DEBUG - 2014-04-18 16:56:48 --> Controller Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> File loaded: application/views/sweepstakes/rewe/index.php
+DEBUG - 2014-04-18 16:56:48 --> Final output sent to browser
+DEBUG - 2014-04-18 16:56:48 --> Total execution time: 0.1960
+DEBUG - 2014-04-18 16:56:48 --> Config Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Hooks Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 16:56:48 --> URI Class Initialized
+DEBUG - 2014-04-18 16:56:48 --> Router Class Initialized
+ERROR - 2014-04-18 16:56:48 --> 404 Page Not Found --> public
+DEBUG - 2014-04-18 17:04:36 --> Config Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Hooks Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 17:04:36 --> URI Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Router Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Output Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Security Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Input Class Initialized
+DEBUG - 2014-04-18 17:04:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 17:04:36 --> Language Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Config Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Hooks Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 17:04:55 --> URI Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Router Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Output Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Security Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Input Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 17:04:55 --> Language Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Loader Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 17:04:55 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 17:04:55 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 17:04:55 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 17:04:55 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 17:04:55 --> Database Driver Class Initialized
+ERROR - 2014-04-18 17:04:55 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 17:04:55 --> Pagination Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Email Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Session Class Initialized
+DEBUG - 2014-04-18 17:04:55 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 17:04:55 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 17:04:55 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 17:04:55 --> Session routines successfully run
+DEBUG - 2014-04-18 17:04:55 --> Controller Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Config Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Hooks Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 17:05:41 --> URI Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Router Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Output Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Security Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Input Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 17:05:41 --> Language Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Loader Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 17:05:41 --> Database Driver Class Initialized
+ERROR - 2014-04-18 17:05:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 17:05:41 --> Pagination Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Email Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Session Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 17:05:41 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 17:05:41 --> Session routines successfully run
+DEBUG - 2014-04-18 17:05:41 --> Controller Class Initialized
+ERROR - 2014-04-18 17:05:41 --> Severity: Notice  --> Undefined index: user_id D:\xampp\htdocs\redlemon\application\controllers\sweepstakes.php 69
+ERROR - 2014-04-18 17:05:41 --> Severity: Notice  --> Undefined index: user_id D:\xampp\htdocs\redlemon\application\controllers\sweepstakes.php 70
+DEBUG - 2014-04-18 17:05:41 --> Config Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Hooks Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 17:05:41 --> URI Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Router Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Output Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Security Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Input Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 17:05:41 --> Language Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Loader Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 17:05:41 --> Database Driver Class Initialized
+ERROR - 2014-04-18 17:05:41 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 17:05:41 --> Pagination Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Email Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Session Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 17:05:41 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 17:05:41 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 17:05:41 --> Session routines successfully run
+DEBUG - 2014-04-18 17:05:41 --> Controller Class Initialized
+DEBUG - 2014-04-18 17:05:41 --> File loaded: application/views/sweepstakes/rewe/page_1.php
+DEBUG - 2014-04-18 17:05:41 --> Final output sent to browser
+DEBUG - 2014-04-18 17:05:41 --> Total execution time: 0.1980
+DEBUG - 2014-04-18 17:06:29 --> Config Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Hooks Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 17:06:29 --> URI Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Router Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Output Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Security Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Input Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 17:06:29 --> Language Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Loader Class Initialized
+DEBUG - 2014-04-18 17:06:29 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 17:06:29 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 17:06:29 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 17:06:29 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 17:06:29 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 17:06:29 --> Database Driver Class Initialized
+ERROR - 2014-04-18 17:06:29 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 17:06:30 --> Pagination Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Email Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Session Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 17:06:30 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 17:06:30 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 17:06:30 --> Session routines successfully run
+DEBUG - 2014-04-18 17:06:30 --> Controller Class Initialized
+ERROR - 2014-04-18 17:06:30 --> Severity: Notice  --> Undefined index: user_id D:\xampp\htdocs\redlemon\application\controllers\sweepstakes.php 69
+ERROR - 2014-04-18 17:06:30 --> Severity: Notice  --> Undefined index: user_id D:\xampp\htdocs\redlemon\application\controllers\sweepstakes.php 70
+DEBUG - 2014-04-18 17:06:30 --> Config Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Hooks Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 17:06:30 --> URI Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Router Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Output Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Security Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Input Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 17:06:30 --> Language Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Loader Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 17:06:30 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 17:06:30 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 17:06:30 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 17:06:30 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 17:06:30 --> Database Driver Class Initialized
+ERROR - 2014-04-18 17:06:30 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 17:06:30 --> Pagination Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Email Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Session Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 17:06:30 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 17:06:30 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 17:06:30 --> Session routines successfully run
+DEBUG - 2014-04-18 17:06:30 --> Controller Class Initialized
+DEBUG - 2014-04-18 17:06:30 --> File loaded: application/views/sweepstakes/rewe/page_1.php
+DEBUG - 2014-04-18 17:06:30 --> Final output sent to browser
+DEBUG - 2014-04-18 17:06:30 --> Total execution time: 0.2060
