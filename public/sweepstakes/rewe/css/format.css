@@ -1,0 +1,245 @@
+body {
+	font-family: arial, verdana, sans-serif;
+	margin:0px;	
+	padding:0px;	
+}
+
+#content{  
+	width:934px;  
+	height:869px; 
+	margin:0px;	
+	padding:0px;		
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:0px;	
+	background-image: url(../images/hintergrund.png);
+ }  
+
+#header {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 58px;	
+	background-image: url(../images/header.png);
+} 
+
+#text_1 {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:20px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 642px;
+	height: 125px;	
+	background-image: url(../images/text_1.png);
+}
+
+#kostenlos{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:20px;
+	float:right;
+	left:85px;
+	top: -115px;
+	width: 221px;
+	height: 153px;	
+	background-image: url(../images/stamp.png);
+	z-index:99;
+} 
+ 
+
+#main {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	width: 924px;
+	height:540px;
+	z-index:90;
+} 
+
+	
+#left{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:-30px;
+	float:left;
+	left: 20px;
+	width: 460px;
+	height:470px;	
+	background-repeat: no-repeat;
+	z-index:99;
+	}
+
+#gewinn_bild{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	width: 460px;
+	height: 310px;	
+	background-image: url(../images/gutschein.png);
+	background-repeat: no-repeat;
+	}
+
+#banderole {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:10px;
+	float:left;
+	left: -43px;
+	width: 520px;
+	height: 189px;	
+	background-image: url(../images/banderole.png);
+	background-repeat: no-repeat;
+}
+	
+#right {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:20px;
+	margin-top:0px;
+	float:left;
+	top: -173px;
+	width: 423px;
+	height: 504px;	
+	background-image: url(../images/form.png);
+	z-index:80;
+	}
+	
+#right_header {
+	font-weight: bold;
+	font-size:22px;
+	margin-top:10px;
+	text-align:center;
+
+}
+
+.small_text {
+	font-size:12px;
+}
+
+	#forms {
+	font-size:20px;
+	font-weight:bold;
+	margin-left:10px;
+	width: 430px;
+	height: 270px;	
+	}
+	
+	#form_footer {
+	font-size:10px;
+	text-align:center;
+	margin-top:40px;
+	width: 423px;
+	height: 20px;	
+	}	
+	.inputs {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-right:40px;
+	height:25px;
+	width:220px;
+	float:right;
+	}
+	
+	#checkbox {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:-47px;
+	margin-right:140px;
+	float:right;
+
+	}
+	
+	
+	#input_check {
+	font-size:10px;
+	width:25px;
+	font-weight:normal;
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:5px;
+	margin-top:5px;
+	float:left;
+
+	}
+	
+	#agb {
+	font-size:10px;
+	width:370px;
+	font-weight:normal;
+	position:relative;
+	margin:0px;	
+	margin-top:5px;
+	padding:0px;
+	margin-left:0px;
+	float:left;
+	
+	}
+	
+#button {
+	position:relative;
+	margin:10px 50px;	
+	padding:0px;	
+	width: 292px;
+	height: 57px;	
+	background-image: url(../images/los_button.png);
+        background-color:#FFFFFF;
+        border:0px;
+        cursor:pointer;
+	}
+
+
+
+#footer_text {
+	font-size:10px;
+	text-align:center;
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 38px;	
+} 
+
+#footer_sponsoren {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 64px;	
+	background-image: url(../images/sponsoren.png);
+} 
+
+#footer_links {
+	font-size: 12px;
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:3px;
+	bottom: 0px;
+	width: 924px;
+	height: 58px;	
+} 

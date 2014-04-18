@@ -1,0 +1,149 @@
+body {
+	font-family: arial, verdana, sans-serif;
+	margin:0px;	
+	padding:0px;	
+}
+
+img {
+float: left;
+margin-right: 10px;
+height: 80px;
+width: 80px;
+}
+
+#content{  
+	width:926px;  
+	height:869px; 
+	margin:0px;	
+	padding:0px;		
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:0px;	
+	background-image: url(../images/hintergrund_weis.png);
+	background-repeat: no-repeat;
+ }  
+
+#header {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 58px;	
+	background-image: url(../images/header.png);
+} 
+
+#main {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	width: 924px;
+	border-left:1px solid silver;
+	border-right:1px solid silver;
+} 
+
+#hwtxt{
+	font-size:20px;
+	margin-left:30px;
+}
+
+.small_text{
+	font-size:18px;
+	margin-left:30px;
+} 
+	
+
+.big_text {
+	font-weight:bold;
+	font-size:20px;
+	margin-left:30px;
+}
+	
+#right {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:20px;
+	margin-top:0px;
+	float:left;
+	right: 0px;
+	width: 423px;
+	height: 504px;	
+	background-image: url(../images/form.png);
+	}
+	
+#right_header {
+	margin-top:10px;
+	text-align:center;
+	font-size:10px;
+}
+
+	#forms {
+	margin-left:10px;
+	width: 430px;
+	height: 270px;	
+	}
+	
+
+.test3 {
+font-size: 12px;
+margin: 0px;
+margin-right: 30px;
+margin-left: 30px;
+margin-bottom: 5px;
+padding:0px;
+display:block;
+border:0px;
+}		
+	
+
+.test3 label{
+font-size: 14px;
+margin: 0px;
+margin-bottom: 5px;
+padding:5px;
+color: #E30013;
+display:block;
+border-top:1px solid #E30013;
+border-bottom:1px solid #E30013;
+}
+
+.test3 p {
+	margin: 0px;
+	padding:0px;
+}
+	
+#footer_sponsoren {
+	font-size:26px;
+	font-weight:bold;
+	text-align:center;
+	color:#ffffff;
+	position:relative;
+	margin:10px 275px;		
+	width: 310px;
+	height: 57px;	
+	background-image: url(../images/button.png);
+        background-color:transparent;
+        border:0px;
+        cursor:pointer;
+        text-align:center;
+
+	} 
+
+#footer_links {
+	font-size: 12px;
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:3px;
+	bottom: 0px;
+	width: 924px;
+	height: 58px;	
+} 

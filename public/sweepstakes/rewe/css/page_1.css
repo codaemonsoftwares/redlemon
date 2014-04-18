@@ -1,0 +1,331 @@
+body {
+	font-family: arial, verdana, sans-serif;
+	margin:0px;	
+	padding:0px;	
+}
+
+#content{  
+	width:934px;  
+	height:859px; 
+	margin:0px;	
+	padding:0px;		
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:0px;	
+	background-image: url(../images/hintergrund.png);
+
+ }  
+
+#header {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 58px;	
+	background-image: url(../images/header.png);
+} 
+
+#text_1 {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:20px;
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 642px;
+	height: 125px;	
+	background-image: url(../images/text_1.png);
+} 
+
+#main {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	width: 924px;
+	height:530px;
+
+} 
+
+	
+#left{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:-30px;
+	float:left;
+	left: 20px;
+	width: 460px;
+	height:470px;	
+	background-repeat: no-repeat;
+	z-index:99;
+	}
+
+#gewinn_bild{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	width: 460px;
+	height: 310px;	
+	background-image: url(../images/gutschein.png);
+	background-repeat: no-repeat;
+	}
+
+#banderole {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-top:10px;
+	float:left;
+	left: -43px;
+	width: 520px;
+	height: 189px;	
+	background-image: url(../images/banderole.png);
+	background-repeat: no-repeat;
+}
+	
+#right {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:20px;
+	margin-top:0px;
+	float:left;
+	right: 0px;
+	width: 423px;
+	height: 436px;	
+	background-image: url(../images/form_small.png);
+
+	}
+	
+#right_header {
+	font-size:22px;
+	margin-top:10px;
+	margin-bottom: 20px;
+	text-align:center;
+	font-weight:bold;
+}
+
+.small_text {
+	font-size:12px;
+}
+
+	#forms {
+	margin-left:10px;
+	width: 430px;
+	height: 250px;	
+
+	}
+	
+	#form_footer {
+	font-size:10px;
+	text-align:center;
+	margin-top:10px;
+	width: 423px;
+	height: 20px;	
+	}	
+
+	#form_text {
+	font-size:20px;
+	font-weight:bold;
+	float:left;
+	width: 123px;
+	height: 30px;
+
+	margin-top:10px;
+	}	
+
+
+	
+	#form_inputs{
+	margin-top:0px;
+	font-size:8.5px;
+	float:left;
+	width: 280px;
+	height: 40px;
+
+	
+	}	
+	
+	.inputs {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-right:40px;
+	height:25px;
+	width:220px;
+	float:right;
+	}
+
+	.inputs_nummer {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-right:10px;
+
+	height:25px;
+	width:30px;
+	}	
+
+	.inputs_plz {
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:10px;
+
+	height:25px;
+	width:50px;
+	}
+	
+	.inputs_ort{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:0px;
+	height:25px;
+	width:190px;
+	}	
+	
+	.inputs_strasse{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:10px;
+	height:25px;
+	width:210px;
+	}
+	
+	.inputs_telefon1{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:10px;
+
+	height:25px;
+	width:80px;
+	}
+	
+	.inputs_telefon2{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:0px;
+
+	height:25px;
+	width:160px;
+	}
+
+	.inputs_geb1{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:10px;
+
+	height:25px;
+	width:40px;
+	}	
+	
+	.dropdown{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:10px;
+
+	height:25px;
+	width:250px;
+	}
+	
+	.inputs_geb2{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:0px;
+	height:25px;
+	width:40px;
+	}	
+
+	.inputs_geb3{
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	margin-left:0px;
+	height:25px;
+	width:80px;
+	}		
+	
+	
+/*#button {
+	font-size:26px;
+	font-weight:bold;
+	text-align:center;
+	color:#ffffff;
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	padding-top:12px;
+	margin-right:auto;
+	margin-left:auto;
+	width: 310px;
+	height: 45px;	
+	background-image: url(../images/button.png);
+	}*/
+#button {
+        font-size:26px;
+	font-weight:bold;
+	text-align:center;
+	color:#ffffff;
+	position:relative;
+	margin:10px 50px;		
+	width: 310px;
+	height: 57px;	
+	background-image: url(../images/button.png);
+        background-color:transparent;
+        border:0px;
+        cursor:pointer;
+        text-align:center;
+	}
+
+
+#footer_text {
+	font-size:10px;
+	text-align:center;
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 38px;	
+} 
+
+#footer_sponsoren {
+	position:relative;
+	margin:0px;	
+	padding:0px;	
+	margin-left: auto;
+	margin-right: auto;
+	top: 0px;
+	width: 924px;
+	height: 64px;	
+	background-image: url(../images/sponsoren.png);
+} 
+
+#footer_links {
+	font-size: 12px;
+	position:relative;
+	margin:0px;	
+	padding:0px;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top:3px;
+	bottom: 0px;
+	width: 924px;
+	height: 58px;	
+} 
