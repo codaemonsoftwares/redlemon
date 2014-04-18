@@ -1,11 +1,12 @@
 <?php 
     /*
-     * Class Name	: Layout
-     * Description	: This class will act as a layout manager for all the pages
-     * Author		: Atindra Biswas
-     * Date			: 18/02/2010
+     * File Name	: search_user.php
+     * Description	: This file will used to seach user details
+     * Author		: Jay Suryawanshi
+     * Date		: 18/04/2014
      */ 
 ?>
+
 <div class="page-header">
 
     <div class="page-title"><h3>User Management<small>search user</small></h3>
@@ -170,3 +171,7 @@
 
 </div>
 
+<?php 
+/* End of file search_users.php */
+/* Location: ./application/views/users/search_users.php */
+?>
