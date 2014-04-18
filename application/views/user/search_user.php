@@ -1,4 +1,11 @@
-
+<?php 
+    /*
+     * Class Name	: Layout
+     * Description	: This class will act as a layout manager for all the pages
+     * Author		: Atindra Biswas
+     * Date			: 18/02/2010
+     */ 
+?>
 <div class="page-header">
 
     <div class="page-title"><h3>User Management<small>search user</small></h3>
@@ -147,7 +154,11 @@
                                   <?php  } 
                                   } ?>                              
                             </td>
-                            <td><a href="#" class="btn btn-link btn-icon btn-xs tip" title="View Details"><i class="icon-expand2"></i></a><a href="#" class="btn btn-link btn-icon btn-xs tip" title="Delete"><i class="icon-remove3"></i></a><a href="#" class="btn btn-link btn-icon btn-xs tip" title="Blacklist"><i class="icon-user-block"></i></a></td>                                                         
+                            <td>
+                                <a href="<?php echo base_url()."user/view_details/".$value['_id']; ?>" class="btn btn-link btn-icon btn-xs tip" title="View Details"><i class="icon-expand2"></i></a>
+                                <a href="#" class="btn btn-link btn-icon btn-xs tip" title="Delete"><i class="icon-remove3"></i></a>
+                                <a href="#" class="btn btn-link btn-icon btn-xs tip" title="Blacklist"><i class="icon-user-block"></i></a>
+                            </td>                                                         
                         </tr> 
                         <?php $count++; ?>
                     <?php } ?>

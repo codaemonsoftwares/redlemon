@@ -3759,3 +3759,48 @@ DEBUG - 2014-04-18 13:45:05 --> File loaded: application/views/common/footer.php
 DEBUG - 2014-04-18 13:45:05 --> File loaded: application/views/layout/main_layout.php
 DEBUG - 2014-04-18 13:45:05 --> Final output sent to browser
 DEBUG - 2014-04-18 13:45:05 --> Total execution time: 0.4020
+DEBUG - 2014-04-18 14:31:46 --> Config Class Initialized
+DEBUG - 2014-04-18 14:31:46 --> Hooks Class Initialized
+DEBUG - 2014-04-18 14:31:46 --> Utf8 Class Initialized
+DEBUG - 2014-04-18 14:31:46 --> UTF-8 Support Enabled
+DEBUG - 2014-04-18 14:31:46 --> URI Class Initialized
+DEBUG - 2014-04-18 14:31:46 --> Router Class Initialized
+DEBUG - 2014-04-18 14:31:46 --> Output Class Initialized
+DEBUG - 2014-04-18 14:31:46 --> Security Class Initialized
+DEBUG - 2014-04-18 14:31:47 --> Input Class Initialized
+DEBUG - 2014-04-18 14:31:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2014-04-18 14:31:47 --> Language Class Initialized
+DEBUG - 2014-04-18 14:31:47 --> Loader Class Initialized
+DEBUG - 2014-04-18 14:31:47 --> Config file loaded: application/config/mongodb.php
+DEBUG - 2014-04-18 14:31:47 --> Helper loaded: url_helper
+DEBUG - 2014-04-18 14:31:47 --> Helper loaded: form_helper
+DEBUG - 2014-04-18 14:31:47 --> Helper loaded: directory_helper
+DEBUG - 2014-04-18 14:31:47 --> Helper loaded: file_helper
+DEBUG - 2014-04-18 14:31:47 --> Database Driver Class Initialized
+ERROR - 2014-04-18 14:31:47 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead D:\xampp\htdocs\redlemon\system\database\drivers\mysql\mysql_driver.php 91
+DEBUG - 2014-04-18 14:31:48 --> Pagination Class Initialized
+DEBUG - 2014-04-18 14:31:48 --> Form Validation Class Initialized
+DEBUG - 2014-04-18 14:31:48 --> Email Class Initialized
+DEBUG - 2014-04-18 14:31:48 --> Session Class Initialized
+DEBUG - 2014-04-18 14:31:48 --> Config file loaded: application/config/mongodb_session.php
+DEBUG - 2014-04-18 14:31:48 --> Helper loaded: string_helper
+DEBUG - 2014-04-18 14:31:48 --> Mongo_db class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 14:31:49 --> Session routines successfully run
+DEBUG - 2014-04-18 14:31:49 --> Controller Class Initialized
+DEBUG - 2014-04-18 14:31:49 --> Config file loaded: application/config/ion_auth.php
+DEBUG - 2014-04-18 14:31:49 --> Email class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 14:31:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 14:31:49 --> Language file loaded: language/english/ion_auth_lang.php
+DEBUG - 2014-04-18 14:31:49 --> Helper loaded: cookie_helper
+DEBUG - 2014-04-18 14:31:49 --> Model Class Initialized
+DEBUG - 2014-04-18 14:31:49 --> Model Class Initialized
+DEBUG - 2014-04-18 14:31:49 --> Helper loaded: date_helper
+DEBUG - 2014-04-18 14:31:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 14:31:49 --> Session class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 14:31:49 --> Form_validation class already loaded. Second attempt ignored.
+DEBUG - 2014-04-18 14:31:49 --> File loaded: application/views/user/search_user.php
+DEBUG - 2014-04-18 14:31:49 --> File loaded: application/views/common/header.php
+DEBUG - 2014-04-18 14:31:49 --> File loaded: application/views/common/footer.php
+DEBUG - 2014-04-18 14:31:49 --> File loaded: application/views/layout/main_layout.php
+DEBUG - 2014-04-18 14:31:49 --> Final output sent to browser
+DEBUG - 2014-04-18 14:31:49 --> Total execution time: 3.5032
