@@ -41,7 +41,6 @@ class Auth extends CI_Controller {
 				$this->data['users'][$k]->groups = $this->ion_auth->get_users_groups($user->id)->result();
 			}
 
-
 			$this->load->view('auth/index', $this->data);
 		}
 	}
@@ -64,7 +63,8 @@ class Auth extends CI_Controller {
 			{ //if the login is successful
 				//redirect them back to the home page
 				$this->session->set_flashdata('message', $this->ion_auth->messages());
-				redirect($this->config->item('base_url').'home/index', 'refresh');
+				//redirect($this->config->item('base_url').'home/index', 'refresh'); 
+				redirect($this->config->item('base_url').'user/search_user', 'refresh');
 			}
 			else
 			{ //if the login was un-successful

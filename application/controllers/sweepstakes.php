@@ -29,12 +29,11 @@ class Sweepstakes extends CI_Controller {
         unset($_POST['submit']);
         
         $user_data = array();
-        
+         echo "<pre>"; print_r($_POST); exit; 
         $common_data['sweepstake_id'] = (isset($_POST['sweepstake_id']) && $_POST['sweepstake_id'] !='') ? $_POST['sweepstake_id'] : '';
         $common_data['sweepstake_url'] = (isset($_POST['sweepstake_url']) && $_POST['sweepstake_url'] !='') ? $_POST['sweepstake_url'] : '';
         $common_data['date_inserted'] = date('Y-m-d h:i:s');
-        $common_data['date_modified'] = date('Y-m-d h:i:s');
-        
+        $common_data['date_modified'] = date('Y-m-d h:i:s');        
         $user_data['gender'] = (isset($_POST['gender']) && $_POST['gender'] !='') ? $_POST['gender'] : '';
         $page_number = (isset($_POST['page_number']) && $_POST['page_number'] !='') ? $_POST['page_number'] : 1; 
         $optin = (isset($_POST['agree']) && strtolower($_POST['agree']) == 'yes') ? 1 : 0;      
@@ -65,7 +64,7 @@ class Sweepstakes extends CI_Controller {
        $common_data['plausibility_error_count'] = 0;
        $common_data['agree'] = $optin;
        $user_data['registration_history'] = array($common_data);
-       //echo "<pre>"; print_r($user_data); exit;        
+       echo "<pre>"; print_r($user_data); exit;        
        $user_id = $_POST['user_id'];
         if ($_POST['user_id'] == "") {
             $user_id = $this->mongo_db->insert('Lead', $user_data);
@@ -73,7 +72,7 @@ class Sweepstakes extends CI_Controller {
                 'first_name' => $_POST['first_name'],
                 'last_name' => $_POST['last_name'],
             );
-            //$this->session->set_userdata($user_data);
+            $this->session->set_userdata($user_data);
         } else {
             $this->mongo_db->where('_id', new MongoId($_POST['user_id']))
             ->set($user_data)
